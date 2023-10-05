@@ -31,7 +31,7 @@ function calculateMinCost() {
     }
 
     // Display the result
-    result.innerText = `Minimum cost to connect ropes: ${totalCost}`;
+    result.innerText = `${totalCost}`;
 }
 
   
